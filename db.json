@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Live coding session",
+      "description": "Creating some projects in React!",
+      "userId": "114786693002060705154",
+      "id": 2
+    },
+    {
+      "title": "Top Notion tips and tricks",
+      "description": "How I organise my life using Notion",
+      "userId": "114786693002060705154",
+      "id": 3
+    },
+    {
+      "description": "Showing my streaming app",
+      "title": "Streamer!",
+      "userId": "114786693002060705154",
+      "id": 4
+    }
+  ]
+}
